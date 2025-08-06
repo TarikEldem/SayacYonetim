@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SayacYonetim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17e08294199fb761b11de0285b5421fb588b1ce9")]
 [assembly: System.Reflection.AssemblyProductAttribute("SayacYonetim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SayacYonetim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
