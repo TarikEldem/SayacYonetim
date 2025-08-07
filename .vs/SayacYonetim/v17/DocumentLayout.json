@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|c:\\users\\topra\\onedrive\\desktop\\hayen projects\\sayacyonetim\\models\\sayac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|solutionrelative:models\\sayac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|c:\\users\\topra\\onedrive\\desktop\\hayen projects\\sayacyonetim\\data\\uygdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|solutionrelative:data\\uygdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|c:\\users\\topra\\onedrive\\desktop\\hayen projects\\sayacyonetim\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|c:\\users\\topra\\onedrive\\desktop\\hayen projects\\sayacyonetim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|c:\\users\\topra\\onedrive\\desktop\\hayen projects\\sayacyonetim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UygDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\Data\\UygDBContext.cs",
-              "RelativeDocumentMoniker": "Data\\UygDBContext.cs",
-              "ToolTip": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\Data\\UygDBContext.cs",
-              "RelativeToolTip": "Data\\UygDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T00:09:45.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Sayac.cs",
-              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\Models\\Sayac.cs",
-              "RelativeDocumentMoniker": "Models\\Sayac.cs",
-              "ToolTip": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\Models\\Sayac.cs",
-              "RelativeToolTip": "Models\\Sayac.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T23:14:53.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T23:06:52.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-08-06T22:59:50.031Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T01:21:52.154Z",
               "EditorCaption": ""
             }
           ]
