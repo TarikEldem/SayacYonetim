@@ -1,4 +1,4 @@
-﻿namespace SayacYonetim.Models
+﻿namespace SayacApi.Models
 {
     public class Sayac
     {
