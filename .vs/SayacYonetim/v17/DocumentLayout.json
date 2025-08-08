@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|solutionrelative:controllers\\sayaccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|c:\\users\\topra\\onedrive\\desktop\\hayen projects\\sayacyonetim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|c:\\users\\topra\\onedrive\\desktop\\hayen projects\\sayacyonetim\\models\\sayac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|solutionrelative:models\\sayac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|c:\\users\\topra\\onedrive\\desktop\\hayen projects\\sayacyonetim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4E42DFA-BE59-44FE-82BB-FEC4BDCEA06C}|SayacYonetim.csproj|c:\\users\\topra\\onedrive\\desktop\\hayen projects\\sayacyonetim\\migrations\\20250807021900_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -32,14 +36,40 @@
               "RelativeDocumentMoniker": "Controllers\\SayacController.cs",
               "ToolTip": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\Controllers\\SayacController.cs",
               "RelativeToolTip": "Controllers\\SayacController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAawEEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T02:36:48.55Z",
+              "WhenOpened": "2025-08-08T15:06:36.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sayac.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\Models\\Sayac.cs",
+              "RelativeDocumentMoniker": "Models\\Sayac.cs",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\Models\\Sayac.cs",
+              "RelativeToolTip": "Models\\Sayac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T14:58:27.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T13:46:18.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "20250807021900_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\Migrations\\20250807021900_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250807021900_InitialCreate.cs",
@@ -48,19 +78,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T02:19:00.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-07T01:21:52.154Z",
               "EditorCaption": ""
             }
           ]
