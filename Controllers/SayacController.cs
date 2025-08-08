@@ -44,7 +44,9 @@ namespace SayacApi.Controllers
 
         public async Task<ActionResult<Sayac>> SayacOlustur(Sayac sayac)
         {
-            _dbContext.Sayaclar.AddAsync(sayac);
+            if(sayac == null)
+                return BadRequest();
+            _dbContext.Sayaclar.Add(sayac);
             await _dbContext.SaveChangesAsync();
 
             return Ok(sayac);

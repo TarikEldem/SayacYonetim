@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Controllers\\SayacController.cs",
               "ToolTip": "C:\\Users\\topra\\OneDrive\\Desktop\\Hayen Projects\\SayacYonetim\\Controllers\\SayacController.cs",
               "RelativeToolTip": "Controllers\\SayacController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAawEEAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T15:06:36.693Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Models\\Sayac.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T14:58:27.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-08T14:58:27.259Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T13:46:18.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-08T13:46:18.979Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Migrations\\20250807021900_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T02:19:00.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T02:19:00.7Z"
             }
           ]
         }

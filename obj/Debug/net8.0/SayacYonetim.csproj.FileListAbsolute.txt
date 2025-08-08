@@ -159,7 +159,6 @@ C:\Users\topra\OneDrive\Desktop\Hayen Projects\SayacYonetim\obj\Debug\net8.0\sta
 C:\Users\topra\OneDrive\Desktop\Hayen Projects\SayacYonetim\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\topra\OneDrive\Desktop\Hayen Projects\SayacYonetim\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\topra\OneDrive\Desktop\Hayen Projects\SayacYonetim\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\topra\OneDrive\Desktop\Hayen Projects\SayacYonetim\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\topra\OneDrive\Desktop\Hayen Projects\SayacYonetim\obj\Debug\net8.0\SayacYon.5A983D54.Up2Date
 C:\Users\topra\OneDrive\Desktop\Hayen Projects\SayacYonetim\obj\Debug\net8.0\SayacYonetim.dll
 C:\Users\topra\OneDrive\Desktop\Hayen Projects\SayacYonetim\obj\Debug\net8.0\refint\SayacYonetim.dll
