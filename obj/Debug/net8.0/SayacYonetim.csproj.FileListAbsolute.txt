@@ -165,3 +165,4 @@ C:\Users\topra\OneDrive\Desktop\Hayen Projects\SayacYonetim\obj\Debug\net8.0\ref
 C:\Users\topra\OneDrive\Desktop\Hayen Projects\SayacYonetim\obj\Debug\net8.0\SayacYonetim.pdb
 C:\Users\topra\OneDrive\Desktop\Hayen Projects\SayacYonetim\obj\Debug\net8.0\SayacYonetim.genruntimeconfig.cache
 C:\Users\topra\OneDrive\Desktop\Hayen Projects\SayacYonetim\obj\Debug\net8.0\ref\SayacYonetim.dll
+C:\Users\topra\OneDrive\Desktop\Hayen Projects\SayacYonetim\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
